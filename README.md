@@ -1,4 +1,4 @@
-# heart_disease
+# heart disease
 # Heart Disease Prediction
 
 A Flask web app that predicts whether a patient is likely to have heart disease based on health and lifestyle inputs, using a machine learning model trained on the Framingham Heart Study dataset.
